@@ -1,1 +1,1 @@
-Simple CSS layout using animations
+Simple CSS layout using flexbox
